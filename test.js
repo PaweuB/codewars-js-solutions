@@ -1,0 +1,1 @@
+Test.assertEquals(numberToString(67), '67');
