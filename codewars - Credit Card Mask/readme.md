@@ -16,6 +16,7 @@ Your task is to write a function maskify, which changes all but the last four ch
 
 
 // "What was the name of your first pet?"
+
 `maskify("Skippy")                                   == "##ippy"`
 
 `maskify("Nananananananananananananananana Batman!") == "####################################man!"`
